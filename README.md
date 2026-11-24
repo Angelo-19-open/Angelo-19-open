@@ -4,13 +4,11 @@
 
 <samp>🟢 SYSTEM ONLINE &nbsp; / &nbsp; MATRIX INTERFACE</samp>
 
-<br><br>
 
 <a href="https://github.com/Angelo-19-open?tab=repositories"><kbd> REPOSITORIOS </kbd></a> &nbsp;
 <a href="https://github.com/Angelo-19-open?tab=projects"><kbd> PROYECTOS </kbd></a> &nbsp;
 <a href="https://github.com/Angelo-19-open?tab=stars"><kbd> STARS </kbd></a>
 
-<br><br>
 
 </div>
 
